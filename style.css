@@ -1,0 +1,25 @@
+*{
+    background-color: olive;
+
+}
+
+.row {
+    width: 90%;
+    margin: auto;
+}
+
+.card-text {
+    font-size: .85rem;
+}
+
+.card-title {
+    font-size: .86rem;
+    font-weight: bold;
+}
+
+.card {
+    width: 100px;
+    margin: auto;
+    margin: 5px;
+    margin-bottom: 5px;
+}
