@@ -5,7 +5,6 @@ const getData = async () => {
     return data;
 }
 
-// Create constants to hold DOM elements
 const DOMElements = {
     cryptoList : ".crypto-card-div",
 }
